@@ -1,0 +1,9 @@
+name: ADang
+version: '${project.version}'
+main: ru.alexec0de.ADang
+api-version: '1.16'
+commands:
+  adang: {}
+depend:
+  - WorldGuard
+  - WorldEdit

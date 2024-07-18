@@ -1,0 +1,39 @@
+
+
+dang:
+  1:
+    fileName: dung1.schem
+    biome: DESERT
+    world: world
+  2:
+    fileName: dung2.schem
+    biome: DESERT
+    world: world_the_nether
+
+
+messages:
+  openDung:
+    - ""
+    - "Игрок {player} открыл хранилище"
+    - ""
+  saveKey: "Ты сохранил ключ"
+  closedDung:
+    - ""
+    - "Хранилище закрыто!!"
+    - ""
+
+item:
+  key:
+    material: PRISMARINE_SHARD
+    name: "Ключ для хранилища"
+    lore:
+      - ""
+      - "§fLordzok го на рухайпиксиль?"
+      - ""
+  krystal:
+    material: PRISMARINE_CRYSTALS
+    name: "Осколок ключа"
+    lore:
+      - ""
+      - "§fLordzok го на рухайпиксиль?"
+      - ""
